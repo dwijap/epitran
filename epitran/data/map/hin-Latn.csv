@@ -1,6 +1,6 @@
 Orth,Phon
 a,ʌ
-aa,a or aː
+aa,aː
 i,i
 ee,iː
 u,u
@@ -8,10 +8,11 @@ oo,uː
 ri,r̩
 ru,r̩
 e,e
-ai or ei,æː
+ai,æː
+ei,æː
 o,o
-ou?,ɔː
-am or an,N 
+ou,ɔː
+an,ʌN 
 ah,əh
 au,ɔ
 ka,kə
@@ -21,7 +22,7 @@ gha,ɡ̤ə
 na,ŋə
 ha,ɦə
 cha,t͡ʃə
-cha or chha,t͡ʃʰə
+chha,t͡ʃʰə
 ja,d͡ʒə
 jha,d͡ʒ̤ə
 ana?,ɲə
@@ -42,12 +43,13 @@ na,nə
 la,lə
 sa,sə
 pa,pə
-fa or pha,pʰə
+fa,pʰə
+pha,pʰə
 ba,bə
 bha,b̤ə
 ma,mə
 va,və
-q or k,qə
+q,qə
 kha,xə
 ga,ɣə
 za,zə
